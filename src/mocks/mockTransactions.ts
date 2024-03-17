@@ -1,0 +1,42 @@
+export const mockTransactions = [
+  {
+    id: 1,
+    type: "income",
+    name: "Salary",
+    date: "2023-10-23",
+    price: 3000,
+    category: "Income",
+  },
+  {
+    id: 2,
+    type: "expense",
+    name: "Groceries",
+    date: "2023-10-24",
+    price: -200,
+    category: "Groceries",
+  },
+  {
+    id: 3,
+    type: "savings",
+    name: "Savings Deposit",
+    date: "2023-10-25",
+    price: 1000,
+    category: "Savings",
+  },
+  {
+    id: 4,
+    type: "investiments",
+    name: "Stock Investment",
+    date: "2023-10-26",
+    price: -500,
+    category: "Investments",
+  },
+  {
+    id: 5,
+    type: "expense",
+    name: "Dining Out",
+    date: "2023-10-27",
+    price: -50,
+    category: "Food",
+  },
+];
