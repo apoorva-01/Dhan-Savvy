@@ -1,4 +1,7 @@
 # DhanSavvy
+
+We solves the problem of youngster and beginners in the phase of investing and budgeting by educating and keeping the track of their expenses and savings and telling them best investments startegy through AI model according to their risk appetite and this will make them earn and invest more in future and also they will also beat the inflation rate of 6% annually by generating almost of 15% of ROI and creating awareness about finance in youth.
+
 Dhan Savvy is a modern and intuitive web app designed to help beginners invest smartly and track their expenses seamlessly.
 <br> <br>
 It is responsive on every screen devices :)
