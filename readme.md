@@ -65,11 +65,11 @@ Access the application at :
   
 ## Contact
 
-- [Linkedin](https://www.linkedin.com/in/apoorva-verma-aa045a202/)
-- [Resume Website](https://apoorva.igscs.in/)
-- [Github](https://github.com/apoorva-01/)
+### Apoorva
+[![linkedin](https://img.shields.io/badge/Apoorva_Verma-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/apoorva-verma-aa045a202/)
+[![GitHub](https://img.shields.io/badge/Apoorva_Verma-252525?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/apoorva-01/)
+[Resume Website](https://apoorva.igscs.in/)
 
+### Chirag
 [![linkedin](https://img.shields.io/badge/Chirag_Nagar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chiragnagar047/)
 [![GitHub](https://img.shields.io/badge/Chirag_Nagar-252525?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/Chirag047)
-
-[@Chirag047](https://github.com/Chirag047)
